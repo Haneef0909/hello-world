@@ -2,4 +2,4 @@
 a simple description
 
 First time working on Github
-its really fun
+It is so much fun
